@@ -13,6 +13,9 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamstuti&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!---
