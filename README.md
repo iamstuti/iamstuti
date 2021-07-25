@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Stuti! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h2>
-<a href="https://www.linkedin.com/in/i=am-stuti/">
+<a href="https://www.linkedin.com/in/i-am-stuti/">
   <img align="left" alt="Stuti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
