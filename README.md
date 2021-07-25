@@ -19,7 +19,9 @@ I love how collaboration and knowledge sharing happens through open-source.
 
 I have started sharing my learnings on platforms that are open to all and home to a diverse array of stories, ideas, and perspectives - you can find my articles on [Medium](https://medium.com/@stuti.2996)
 
-In future, I hope to write and share more freshly brewed content frequently !! 
+In future, I hope to write and share more freshly brewed content !! 
+
+Till then, keep watching this space
 
 
 
@@ -37,20 +39,22 @@ In future, I hope to write and share more freshly brewed content frequently !!
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GCP&logoColor=white&color=2bbc8a)
 
 
-<h2> 📈 Some stats </h2>
-
-<p Warning : ! It may not be interesting....but who cares !! 
+## &#x1f4c8; Some stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstuti&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstuti&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
+
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamstuti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Stuti's GitHub Stats" />
 </a>
+
+Warning : ! It may not be interesting....but who cares !! 
+
  
   
 
-<h2> This week I spent my time on  <img src = "https://media.giphy.com/media/46zGt1yNeHPGCq315Q/giphy.gif" width = "50" ></h2>
+## This week I spent my time on 
 
 <!--START_SECTION:waka-->
 ```text
